@@ -1,0 +1,54 @@
+html, body, .wrapper, .list {
+    position: relative;
+    height: 100%;
+    margin: 0;
+}
+
+.main_header {
+    color: white;
+    background-color: #003580;
+    margin: 0;
+    padding: 20px 10%;
+    font: bold 2em Arial;
+}
+
+.main_header span {
+    color: #09f;
+}
+
+.list {
+    display: block;
+    margin: 0;
+    padding: 10px 10%;
+}
+
+.columns .col {
+    margin: 0;
+    float: left;
+}
+
+.divider {
+    clear: both;
+    height: 20px;
+    background-color: transparent;
+}
+
+.city {
+    margin: 0;
+    padding: 10px 0;
+    font: normal 1em Arial;
+}
+
+.more_info {
+    font: normal 1em Arial;
+    color: #2C3F46;
+    background-color: transparent;
+    margin: 0;
+}
+
+.flash {
+    background-color: #fff9e2;
+}
+
+
+
